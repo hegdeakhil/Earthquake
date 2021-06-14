@@ -3,7 +3,5 @@ This project contains a set of observations (strictly confined to Astronomical a
 
 
 Credits - https://www.vedicastrologer.org/jh/
-
-          https://earthquake.usgs.gov/
-          
-          https://keisan.casio.com/
+https://earthquake.usgs.gov/
+https://keisan.casio.com/
