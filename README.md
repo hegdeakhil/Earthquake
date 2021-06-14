@@ -3,5 +3,7 @@ This project contains a set of observations (strictly confined to Astronomical a
 
 
 Credits - Jagannath Hora Astrological Software
+
           https://earthquake.usgs.gov/
+          
           https://keisan.casio.com/
